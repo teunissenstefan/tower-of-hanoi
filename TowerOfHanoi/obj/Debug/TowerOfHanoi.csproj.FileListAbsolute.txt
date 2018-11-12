@@ -1,0 +1,6 @@
+e:\users\teunissenstefan\documents\visual studio 2017\Projects\TowerOfHanoi\TowerOfHanoi\bin\Debug\TowerOfHanoi.exe.config
+e:\users\teunissenstefan\documents\visual studio 2017\Projects\TowerOfHanoi\TowerOfHanoi\bin\Debug\TowerOfHanoi.exe
+e:\users\teunissenstefan\documents\visual studio 2017\Projects\TowerOfHanoi\TowerOfHanoi\bin\Debug\TowerOfHanoi.pdb
+e:\users\teunissenstefan\documents\visual studio 2017\Projects\TowerOfHanoi\TowerOfHanoi\obj\Debug\TowerOfHanoi.csprojResolveAssemblyReference.cache
+e:\users\teunissenstefan\documents\visual studio 2017\Projects\TowerOfHanoi\TowerOfHanoi\obj\Debug\TowerOfHanoi.exe
+e:\users\teunissenstefan\documents\visual studio 2017\Projects\TowerOfHanoi\TowerOfHanoi\obj\Debug\TowerOfHanoi.pdb
